@@ -1,0 +1,13 @@
+10.40.25.10 - - [27/Feb/2022:18:21:02 +0000] "GET / HTTP/1.1" 404 - http-bio-8080-exec-1 0
+10.40.25.10 - - [27/Feb/2022:18:22:00 +0000] "GET / HTTP/1.1" 404 - http-bio-8080-exec-3 0
+10.40.25.10 - - [27/Feb/2022:18:22:11 +0000] "GET /zodiacfinder HTTP/1.1" 302 - http-bio-8080-exec-4 0
+10.40.25.10 - - [27/Feb/2022:18:22:12 +0000] "GET /zodiacfinder/ HTTP/1.1" 200 1637 http-bio-8080-exec-5 598
+10.40.25.10 - - [27/Feb/2022:18:22:13 +0000] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-6 0
+10.40.25.10 - - [27/Feb/2022:18:23:05 +0000] "GET /zodiacfinder/findUser?userName=rams21&userBirthDate=12%2F11%2F200&userBirthTime=23%3A52&userDistrict=rajamundry HTTP/1.1" 200 1933 http-bio-8080-exec-7 350
+10.40.25.10 - - [27/Feb/2022:18:24:44 +0000] "GET /zodiacfinder/edit?id=10 HTTP/1.1" 200 1829 http-bio-8080-exec-9 42
+10.40.25.10 - - [27/Feb/2022:18:25:18 +0000] "GET /zodiacfinder/update?userName=rams213&userBirthDate=22%2F01%2F2554&userBirthTime=23%3A24&userDistrict=kakinada&userId=10 HTTP/1.1" 200 1935 http-bio-8080-exec-1 63
+10.40.25.10 - - [27/Feb/2022:18:36:58 +0000] "GET /zodiacfinder/user-form.jsp HTTP/1.1" 200 1569 http-bio-8080-exec-3 36
+10.40.25.10 - - [27/Feb/2022:18:37:23 +0000] "GET /zodiacfinder/insert?userName=alekhya&userBirthDate=12%2F11%2F200&userBirthTime=23%3A52&userDistrict=rajamundry HTTP/1.1" 200 1569 http-bio-8080-exec-4 36
+10.40.25.10 - - [27/Feb/2022:18:40:00 +0000] "GET /zodiacfinder/insert?userName=alekhya&userBirthDate=12%2F11%2F200&userBirthTime=23%3A52&userDistrict=rajamundry HTTP/1.1" 200 1569 http-bio-8080-exec-6 36
+10.40.25.10 - - [27/Feb/2022:18:40:24 +0000] "GET /zodiacfinder/ HTTP/1.1" 200 1637 http-bio-8080-exec-8 2
+10.40.25.10 - - [27/Feb/2022:18:40:37 +0000] "GET /zodiacfinder/findUser?userName=alekhya&userBirthDate=12%2F11%2F200&userBirthTime=23%3A52&userDistrict=rajamundry HTTP/1.1" 200 1915 http-bio-8080-exec-10 48
